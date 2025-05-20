@@ -1,4 +1,4 @@
-[![banner1](thumbnailgithubbaru.jpg)](https://www.agungg.com/)
+[![banner1](output.png)](https://www.agungg.com/)
 
 # Multi-Step Time Series Forecasting of OHLC Data using Transformer (TST) Architecture 
 
